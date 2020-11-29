@@ -9,6 +9,7 @@ Too busy to implement with stochastic and mini-batch.
 ## Language implementation
 - [x] C++
 - [x] Java
-- [ ] Python (Never)
-- [ ] Go (WIP)
-- [ ] Rust (After Go)
+- [x] Go
+- [ ] Rust (Learning)
+
+Note: I will never implement in Python!
