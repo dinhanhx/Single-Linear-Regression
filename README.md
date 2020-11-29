@@ -7,8 +7,8 @@ In this project, I implemented by using gradient descent and batch learning.
 Too busy to implement with stochastic and mini-batch.
 
 ## Language implementation
-- [ ] C++
-- [ ] Java
-- [ ] Python
-- [ ] Go
-- [ ] Rust
+- [x] C++
+- [x] Java
+- [ ] Python (Never)
+- [ ] Go (WIP)
+- [ ] Rust (After Go)
