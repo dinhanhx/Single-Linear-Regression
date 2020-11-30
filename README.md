@@ -10,6 +10,6 @@ Too busy to implement with stochastic and mini-batch.
 - [x] C++
 - [x] Java
 - [x] Go
-- [ ] Rust (Learning)
+- [x] Rust
 
 Note: I will never implement in Python!
